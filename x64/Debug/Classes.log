@@ -1,0 +1,6 @@
+﻿  Books.cpp
+  Source.cpp
+C:\Users\USER\Desktop\OOP-PROJECTS\Classes\Source.cpp(72,14): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\USER\Desktop\OOP-PROJECTS\Classes\Source.cpp(73,14): warning C4129: 'P': unrecognized character escape sequence
+  Generating Code...
+  Classes.vcxproj -> C:\Users\USER\Desktop\OOP-PROJECTS\Classes\x64\Debug\Classes.exe
